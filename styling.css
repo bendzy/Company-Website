@@ -1,0 +1,11 @@
+body {
+    font-family: Arvo, serif;
+    background: url(http://freenaturestock.s3.amazonaws.com/232.jpg) no-repeat center center fixed; /* picture doesnt move fixed.. no-repat*/
+    background-size: cover;
+}
+
+/* Style logo*/
+
+.logo {
+    height: 35px;
+}
